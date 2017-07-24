@@ -1,0 +1,28 @@
+{
+  "name": "singlemalt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen1601/SingleMalt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveen1601/SingleMalt/issues"
+  },
+  "homepage": "https://github.com/naveen1601/SingleMalt#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
